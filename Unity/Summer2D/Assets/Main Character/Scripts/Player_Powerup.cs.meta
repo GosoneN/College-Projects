@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 636bb01c7ea54dc4b909f835f7eeba93
+timeCreated: 1436840427
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {instanceID: 0}
+  - bouncyShot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
